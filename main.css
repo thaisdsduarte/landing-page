@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: beige;
+}
+
+.main-header{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.main{
+    background-color: darksalmon;    
+}
+
+.section-main {
+    background: grey;
+}
+
+.article-main {
+    background: #d5ffdc;
+    text-align: center;
+    padding: 16px;
+    margin: 8px;
+    display: inline-block;
+    width: 48%;
+    vertical-align: middle;
+}
+
+
+#main-content{
+    color: red;
+}
+
+#main-form{
+    color: brown;
+}
